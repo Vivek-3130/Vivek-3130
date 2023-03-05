@@ -1,7 +1,7 @@
 - 👋 Hi,I'm Vivek Pandey
 - 👀 I’m currently learning full stack web development
 - 🌱 I’m currently learning C++ and DSA
-- 💞️ I’m looking to collaborate on anything related to things I m learning
+- 💞️ I’m looking forward to collaborate on anything related to things I m learning
 - 📫 How to reach me:-
 - vivekgzb31@gmail.com
 - https://www.linkedin.com/in/vivek-pandey-6a3848153
