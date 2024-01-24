@@ -17,5 +17,8 @@
 ![SQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 
+![NODEjs](https://img.shields.io/badge/NODEjs-E34F26.svg?style=for-the-badge&logo=NODEjs&logoColor=white)
+![EXPRESSjs](https://img.shields.io/badge/EXPRESSjs-1572B6.svg?style=for-the-badge&logo=EXPRESSjs&logoColor=white)
+
 [![An image of @vivek3130's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vivek3130)](https://holopin.io/@vivek3130)
 
