@@ -1,5 +1,5 @@
-![MasterHead](https://github.com/Vivek-3130/Icon_-Img/blob/main/img/github-header-image.png)
-<h1 align="center">Hi 👋, I'm Vivek Paney</h1>
+![MasterHead](https://github.com/Vivek-3130/Icon_-Img/blob/main/img/Screenshot%202024-02-08%20195427.png)
+<h1 align="center">Hi 👋, I'm Vivek Pandey</h1>
 <img align="right" alt="coding" width="300" src="https://miro.medium.com/v2/resize:fit:456/format:webp/0*Kf8Cv4yPJLP8gJ0t.gif" loop>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek-3130&label=Profile%20views&color=0e75b6&style=flat" alt="vivek-3130" width="120px" /> </p>
 <p align="left">
